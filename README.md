@@ -24,3 +24,8 @@ My work bridges **openEHR, HL7 FHIR, OMOP CDM, and EHDS**, with a focus on makin
 - **Lead** — OHDSI openEHR & OMOP Working Group
 - **openEHR Fellow 2025–2026**
 - **Health Informatics Standards Expert** — ISO/TC 215, Austrian Standards & HL7 Austria
+
+  ## 🔗 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/somayeh-abedian-974ba227/)
+- [ORCID](https://orcid.org/0000-0002-6427-6941)
