@@ -1,5 +1,3 @@
-# Hi, I'm Somayeh Abedian 👋
-
 ### Health Informatics | Digital Health | Semantic Interoperability
 
 Senior Researcher in Digital Health and Health Informatics, working at the intersection of **health data standards, semantic interoperability, clinical information modelling, and secondary use of health data**.
