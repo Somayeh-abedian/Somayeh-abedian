@@ -16,3 +16,11 @@ My work bridges **openEHR, HL7 FHIR, OMOP CDM, and EHDS**, with a focus on makin
 - Electronic Health Records (EHR)
 - Secondary Use of Health Data
 - Patient-Generated Health Data (PGHD)
+## 🌍 Current Roles & Leadership
+
+- **Senior Researcher** — Ludwig Boltzmann Institute for Digital Health and Prevention, Austria
+- **Adjunct Faculty Member** — University of Toronto, Canada
+- **Board Member / Individual Representative** — openEHR International
+- **Co-Lead** — OHDSI openEHR & OMOP Working Group
+- **openEHR Fellow 2025–2026**
+- **Health Informatics Standards Expert** — ISO/TC 215, Austrian Standards & HL7 Austria
